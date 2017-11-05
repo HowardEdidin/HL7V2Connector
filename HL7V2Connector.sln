@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7Version2xParser", "FunctionApp1\HL7Version2xParser.csproj", "{BC3097A9-921E-4ABC-BD3C-EED0D7C3AAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3097A9-921E-4ABC-BD3C-EED0D7C3AAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3097A9-921E-4ABC-BD3C-EED0D7C3AAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3097A9-921E-4ABC-BD3C-EED0D7C3AAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3097A9-921E-4ABC-BD3C-EED0D7C3AAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F4A007-4A4A-4AB6-84FD-FDEFF6B08964}
+	EndGlobalSection
+EndGlobal
